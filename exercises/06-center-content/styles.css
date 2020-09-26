@@ -1,1 +1,11 @@
-body{background:blue;}
+body {
+	background: blue;
+	position: relative;
+	left: 30%;
+	
+}
+.content {
+	width: 500px;
+	background-color: rgb(170, 169, 169);
+	
+}

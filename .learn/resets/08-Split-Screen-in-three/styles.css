@@ -10,8 +10,3 @@ body {
 #sectionC {
 	background: green;
 }
-.flex {
-	display: flex;
-	flex-direction: column;
-	width: 33%;
-}
